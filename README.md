@@ -1,4 +1,4 @@
-# 22AIE111_CASESTUDY_A10Vehicle Rental Management System
+# 22AIE111_CASESTUDY_A10
 
 # Vehicle Rental Management System
 
